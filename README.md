@@ -7,8 +7,8 @@ How to pretrain backbone with soft masked frequency modeling (SMFM), taking ResN
 ## MSJL_finetuning.py
 On-the-fly joint finetuning with frequency-aware fusion (FAF).
 
-## Tips:
-The code can run on linux or windows systems. We recommend torch == 1.12.1 and timm == 0.6.13.
+## Tips
+The code can run on linux and windows systems. We recommend torch == 1.12.1 and timm == 0.6.13.
 
 ## Acknowledgement
 We thank research from [MFM](https://github.com/Jiahao000/MFM) and [FcaNet](https://github.com/cfzd/FcaNet), whose code also inspired our work.
